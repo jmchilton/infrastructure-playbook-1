@@ -1,4 +1,4 @@
-10.5.68.0/24 dev eth1 tab 201
-default via 10.5.68.254 dev eth1 tab 201
+10.5.68.0/24 dev eth1 tab bioinf
+default via 10.5.68.254 dev eth1 tab bioinf
 
-10.4.7.0/24 via 10.5.68.1 dev eth1 tab 201
+10.0.0.0/8 via 10.5.68.254 dev eth1     # _no_ tab bioinf!

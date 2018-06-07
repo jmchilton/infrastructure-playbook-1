@@ -1,0 +1,2 @@
+192.52.20/24 dev eth0 tab public
+default via 192.52.2.254 dev eth0 tab public
